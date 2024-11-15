@@ -1,8 +1,8 @@
 # CMPE297-ShortStory
 
-[Medium Article Link]()
+[Medium Article Link](https://medium.com/@saipraneethk181200/reasoning-with-large-language-models-a-journey-into-the-mind-of-ai-2c6bc0e913d8)
 
-[SlideShare Link]()
+[SlideShare Link](https://www.slideshare.net/slideshow/cmpe297-short-story-reasoning-with-llm-s/273318631)
 
 [YouTube Link]()
 
