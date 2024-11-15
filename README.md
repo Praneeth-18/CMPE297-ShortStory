@@ -4,7 +4,7 @@
 
 [SlideShare Link](https://www.slideshare.net/slideshow/cmpe297-short-story-reasoning-with-llm-s/273318631)
 
-[YouTube Link]()
+[YouTube Link](https://youtu.be/SrtOSUrCZpo)
 
 
 ---
